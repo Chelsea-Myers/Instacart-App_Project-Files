@@ -1,4 +1,4 @@
-# Instacart_Dash_Apps
+# Instacart Dash App
 
 Student files to get started creating Instacart App.
 
